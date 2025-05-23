@@ -10,12 +10,6 @@ This is a simple **Text Analyzer** built with React that counts the number of **
 
 ---
 
-## 📸 Screenshot
-
-![Text Analyzer Screenshot](screenshot.png) <!-- Optional: add your screenshot file here -->
-
----
-
 ## 🛠️ Technologies Used
 
 - React
